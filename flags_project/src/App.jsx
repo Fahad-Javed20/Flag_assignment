@@ -1,11 +1,11 @@
-
+import Bangladesh_Flag from './components/Bangladesh_Flag'
 
 function App() {
   
 
   return (
     <>
-      <div>fahad</div>
+      <Bangladesh_Flag />
     </>
   )
 }
