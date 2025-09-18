@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <Bangladesh_Flag />
-      <Japan_Flag />
       <France_Flag />
+      <Japan_Flag />
       <Panama_Flag />
     </>
   )
