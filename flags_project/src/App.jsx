@@ -3,6 +3,7 @@ import Japan_Flag from './components/Japan_Flag'
 import France_Flag from './components/France_Flag'
 import Panama_Flag from './components/Panama_Flag'
 import Costarisa_Flag from './components/Costarisa_Flag'
+import Palestin_Flag from './components/Palestin_Flag'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
       <Costarisa_Flag />
       <Bangladesh_Flag />
       <Panama_Flag />
+      <Palestin_Flag />
     </>
   )
 }
