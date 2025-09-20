@@ -10,11 +10,17 @@ function App() {
 
   return (
     <>
+    <h1>France Flag</h1>
       <France_Flag />
+      <h1>Japan Flag</h1>
       <Japan_Flag />
+      <h1>Costarisa Flag</h1>
       <Costarisa_Flag />
+      <h1>Bangladesh Flag</h1>
       <Bangladesh_Flag />
+      <h1>panama Flag</h1>
       <Panama_Flag />
+      <h1>Palestine Flag</h1>
       <Palestin_Flag />
     </>
   )
